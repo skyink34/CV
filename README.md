@@ -25,13 +25,13 @@ _Your job title_
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### This Skill
+## This Skill
 
 - Experience
 - Achievements
 - Evidence
 
-#### Another Skill
+## Another Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -59,6 +59,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies
+## Hobbies and interests
 
 Any cool stuff that makes you a super part of a software development team
